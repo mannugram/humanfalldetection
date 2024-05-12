@@ -1,1 +1,3 @@
 # humanfalldetection
+
+The project aims to develop an efficient and reliable system for human fall detection, addressing the critical need for timely response to fall incidents, which can be life-threatening. Falls among individuals, especially in environments such as staircases, escalators, and steps, pose significant safety concerns. Therefore, there is a pressing need for an automated solution that can accurately identify and alert authorities or caregivers about fall occurrences in real-time. The project seeks to contribute to enhanced safety measures by developing an advanced system for human fall detection, with a focus on accuracy, reliability, and real-time responsiveness.
